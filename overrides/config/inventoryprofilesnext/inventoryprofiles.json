@@ -1,0 +1,31 @@
+{
+    "ModSettings": {
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "GRAVE_ACCENT"
+            }
+        },
+        "sort_inventory_in_columns": {
+            "main": {
+                "keys": "GRAVE_ACCENT,R"
+            }
+        }
+    }
+}
